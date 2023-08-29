@@ -6,7 +6,7 @@ const InicioSesion = () => {
         <form>
             <input/>
             <input/>
-            <button>Inicia Sesión</button>
+            <button>Iniciar Sesión</button>
         </form>
     </div>
   )
